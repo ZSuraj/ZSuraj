@@ -1,7 +1,6 @@
-<h1 align="left">Hi 👋, I'm Suraj Jain</h1>
-<h3 align="left">I am a Student, Developer and Curious techie.</h3>
+<h1>Hi 👋, I'm Suraj Jain</h1>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zsuraj&label=Profile%20views&color=0e75b6&style=flat" alt="zsuraj" /> </p> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=F72424&width=435&lines=I+am+a+Developer+and+Curious+techie.;I+talk+about+Tech+and+Future.)](https://git.io/typing-svg)
 
 - 🌱 I’m passionate about **building great products**
 
