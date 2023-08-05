@@ -8,9 +8,9 @@
 
 - 📫 How to reach me **surajjain.sj19@gmail.com**
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zsuraj&show_icons=true&locale=en" alt="zsuraj" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZSuraj&count_private=true&include_all_commits=true&show_icons=true&locale=en" alt="zsuraj" /></p> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zsuraj&count_private=true&include_all_commits=true&show_icons=true&locale=en&layout=compact" alt="zsuraj" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZSuraj&show_icons=true&locale=en&layout=compact" alt="zsuraj" /></p>
 <br><br><br><br><br><br><br><br>
 
 <h3 align="left">Connect with me:</h3>
